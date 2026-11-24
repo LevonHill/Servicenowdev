@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>landing</landing_path>
+        <name>Loaner Request App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 05:59:29</sys_created_on>
+        <sys_id>7314357fffec93906848f1c62536fd25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request App Config</sys_name>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_update_name>sys_ux_app_config_7314357fffec93906848f1c62536fd25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 05:59:29</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</application>
+        <file_path/>
+        <instance_id>af91d18febfb7a10c040fddacad0cd43</instance_id>
+        <instance_name>dev372169</instance_name>
+        <name>sys_ux_app_config_7314357fffec93906848f1c62536fd25</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description/><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>landing</landing_path><name>Loaner Request App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-11-21 05:59:29</sys_created_on><sys_id>7314357fffec93906848f1c62536fd25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Request App Config</sys_name><sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package><sys_policy/><sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope><sys_update_name>sys_ux_app_config_7314357fffec93906848f1c62536fd25</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-11-21 05:59:29</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>-449875840</payload_hash>
+        <record_name>Loaner Request App Config</record_name>
+        <reverted_from/>
+        <source>6a3383b2931013103dbcf1d8dd03d657</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2026-11-05 22:55:24</sys_created_on>
+        <sys_id>5623964893fc17903dbcf1d8dd03d668</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1a1adec8f600000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Configuration</type>
+        <update_guid>16239648d4fc1790dd92a126ba3e6c68</update_guid>
+        <update_guid_history>16239648d4fc1790dd92a126ba3e6c68:-449875840</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-22 02:53:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>0a275551fbb74fee86629f6cd1755c91</sys_id>
+        <sys_metadata>7314357fffec93906848f1c62536fd25</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request App Config</sys_name>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_scope_delete display_value="">89738b4e072c4570afe2c30241659640</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_7314357fffec93906848f1c62536fd25</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_7314357fffec93906848f1c62536fd25">5623964893fc17903dbcf1d8dd03d668</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-22 02:53:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

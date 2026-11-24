@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_menu_actions</name>
+        <page display_value="">dbfdedbfe9ac9390ba87a5fb2e15a274</page>
+        <required_translations>[{"message":"Report issue","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 05:32:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>97fdedbf9fac939029422d1a7763f180</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_menu_actions</sys_name>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_update_name>sys_ux_page_property_97fdedbf9fac939029422d1a7763f180</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 05:32:42</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_2234804_loaner_0.dbfdedbfe9ac9390ba87a5fb2e15a274.root.chrome_menu_actions</unique_name>
+        <value>{&#13;
+    "label": {"translatable":true, "message":"Report issue"},&#13;
+    "value": {&#13;
+  		"route":"catalog",&#13;
+        "reload":true,&#13;
+       	"fields":{&#13;
+                   "sysId": "3f1dd0320a0a0b99000a53f7604a2ef9"&#13;
+		}&#13;
+	}&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</application>
+        <file_path/>
+        <instance_id>af91d18febfb7a10c040fddacad0cd43</instance_id>
+        <instance_name>dev372169</instance_name>
+        <name>sys_ux_page_property_97fdedbf9fac939029422d1a7763f180</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_menu_actions</name><page display_value="">dbfdedbfe9ac9390ba87a5fb2e15a274</page><required_translations>[{"message":"Report issue","comment":""}]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-11-21 05:32:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>97fdedbf9fac939029422d1a7763f180</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_menu_actions</sys_name><sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package><sys_policy/><sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope><sys_update_name>sys_ux_page_property_97fdedbf9fac939029422d1a7763f180</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-11-21 05:32:42</sys_updated_on><type>json</type><unique_name>x_2234804_loaner_0.dbfdedbfe9ac9390ba87a5fb2e15a274.root.chrome_menu_actions</unique_name><value>{&#13;
+    "label": {"translatable":true, "message":"Report issue"},&#13;
+    "value": {&#13;
+  		"route":"catalog",&#13;
+        "reload":true,&#13;
+       	"fields":{&#13;
+                   "sysId": "3f1dd0320a0a0b99000a53f7604a2ef9"&#13;
+		}&#13;
+	}&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1662099456</payload_hash>
+        <record_name>chrome_menu_actions</record_name>
+        <reverted_from/>
+        <source>6a3383b2931013103dbcf1d8dd03d657</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2026-11-05 22:55:24</sys_created_on>
+        <sys_id>68dfed3793ec93903dbcf1d8dd03d62b</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1a1adec8f600000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>28dfed37dbec9390f170a322236b692b</update_guid>
+        <update_guid_history>28dfed37dbec9390f170a322236b692b:1662099456</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 05:40:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>219dbd80df8d41dca5cf7e2928afd224</sys_id>
+        <sys_metadata>97fdedbf9fac939029422d1a7763f180</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_menu_actions</sys_name>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_scope_delete display_value="">89738b4e072c4570afe2c30241659640</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_97fdedbf9fac939029422d1a7763f180</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_97fdedbf9fac939029422d1a7763f180">68dfed3793ec93903dbcf1d8dd03d62b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 05:40:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
