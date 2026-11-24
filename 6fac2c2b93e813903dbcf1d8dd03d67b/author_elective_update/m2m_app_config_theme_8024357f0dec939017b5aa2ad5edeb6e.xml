@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability display_value="Public">8c24357fe1ec93902ec5ca601a768c6d</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 05:59:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8024357f0dec939017b5aa2ad5edeb6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_update_name>m2m_app_config_theme_8024357f0dec939017b5aa2ad5edeb6e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 05:59:27</sys_updated_on>
+        <theme display_value="Light Theme">8824357f55ec93900256a2b34f067c6e</theme>
+        <ux_app_configuration display_value="">7314357fffec93906848f1c62536fd25</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</application>
+        <file_path/>
+        <instance_id>af91d18febfb7a10c040fddacad0cd43</instance_id>
+        <instance_name>dev372169</instance_name>
+        <name>m2m_app_config_theme_8024357f0dec939017b5aa2ad5edeb6e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability display_value="Public">8c24357fe1ec93902ec5ca601a768c6d</applicability><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-11-21 05:59:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8024357f0dec939017b5aa2ad5edeb6e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package><sys_policy/><sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope><sys_update_name>m2m_app_config_theme_8024357f0dec939017b5aa2ad5edeb6e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-11-21 05:59:27</sys_updated_on><theme display_value="Light Theme">8824357f55ec93900256a2b34f067c6e</theme><ux_app_configuration display_value="">7314357fffec93906848f1c62536fd25</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-1471072801</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>6a3383b2931013103dbcf1d8dd03d657</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2026-11-05 22:55:24</sys_created_on>
+        <sys_id>2e23d64893fc17903dbcf1d8dd03d60b</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1a1adec8f600000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>ea23d648e2fc1790f05797266820670b</update_guid>
+        <update_guid_history>ea23d648e2fc1790f05797266820670b:-1471072801</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6a23d64893fc17903dbcf1d8dd03d60c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-22 02:53:31</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>00b72f9bb494436080158712284a2100</sys_id>
+        <sys_metadata>8024357f0dec939017b5aa2ad5edeb6e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_scope_delete display_value="">89738b4e072c4570afe2c30241659640</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_8024357f0dec939017b5aa2ad5edeb6e</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_8024357f0dec939017b5aa2ad5edeb6e">2e23d64893fc17903dbcf1d8dd03d60b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-22 02:53:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

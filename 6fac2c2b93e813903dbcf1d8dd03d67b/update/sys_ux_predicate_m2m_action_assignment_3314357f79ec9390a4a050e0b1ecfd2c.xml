@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="My Tasks">3b14357f29ec93908d24626e9630453a</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 05:59:28</sys_created_on>
+        <sys_id>3314357f79ec9390a4a050e0b1ecfd2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_3314357f79ec9390a4a050e0b1ecfd2c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 05:59:28</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

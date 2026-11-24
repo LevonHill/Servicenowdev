@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>dffdedbf39ac9390b30ea5a09674a774</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app display_value="Portal UI Template Parent App">de0b852eb0c88210f8774b320398b357</parent_app>
+        <path>loaner-request</path>
+        <root_macroponent display_value="Portal App Shell (Deprecated)">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 05:32:42</sys_created_on>
+        <sys_id>dbfdedbfe9ac9390ba87a5fb2e15a274</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_update_name>sys_ux_page_registry_dbfdedbfe9ac9390ba87a5fb2e15a274</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 05:32:42</sys_updated_on>
+        <title>Loaner Request</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</application>
+        <file_path/>
+        <instance_id>af91d18febfb7a10c040fddacad0cd43</instance_id>
+        <instance_name>dev372169</instance_name>
+        <name>sys_ux_page_registry_dbfdedbfe9ac9390ba87a5fb2e15a274</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>dffdedbf39ac9390b30ea5a09674a774</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app display_value="Portal UI Template Parent App">de0b852eb0c88210f8774b320398b357</parent_app><path>loaner-request</path><root_macroponent display_value="Portal App Shell (Deprecated)">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-11-21 05:32:42</sys_created_on><sys_id>dbfdedbfe9ac9390ba87a5fb2e15a274</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Request</sys_name><sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package><sys_policy/><sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope><sys_update_name>sys_ux_page_registry_dbfdedbfe9ac9390ba87a5fb2e15a274</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-11-21 05:32:42</sys_updated_on><title>Loaner Request</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1372342898</payload_hash>
+        <record_name>Loaner Request</record_name>
+        <reverted_from/>
+        <source>6a3383b2931013103dbcf1d8dd03d657</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2026-11-05 22:55:24</sys_created_on>
+        <sys_id>a0dfad3793ec93903dbcf1d8dd03d6f3</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1a1adec8f600000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>60dfad37d1ec939076033b5a0519c2f3</update_guid>
+        <update_guid_history>60dfad37d1ec939076033b5a0519c2f3:1372342898</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 05:40:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>03795097d71344f4822e1d2404e52ae4</sys_id>
+        <sys_metadata>dbfdedbfe9ac9390ba87a5fb2e15a274</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_scope_delete display_value="">89738b4e072c4570afe2c30241659640</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_dbfdedbfe9ac9390ba87a5fb2e15a274</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_dbfdedbfe9ac9390ba87a5fb2e15a274">a0dfad3793ec93903dbcf1d8dd03d6f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 05:40:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

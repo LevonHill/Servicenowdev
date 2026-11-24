@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config/>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <interoperable>false</interoperable>
+        <name>Indicate your decision</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="Record Page(task)">3714357fb5ec93903a6ba7547c69b560</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_tasks</route_type>
+        <screen_type display_value="Indicate your decision">3714357fe4ec939041b5c414388d3458</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 05:59:30</sys_created_on>
+        <sys_id>3314357fd3ec9390d320d1277b8a4957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Indicate your decision</sys_name>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_update_name>sys_ux_app_route_3314357fd3ec9390d320d1277b8a4957</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 05:59:30</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=3314357fd3ec9390d320d1277b8a4957"/>
+</record_update>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">dbfdedbfe9ac9390ba87a5fb2e15a274</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">97fdedbf28ac93900f0b491512281caa</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 05:32:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>9bfdedbfabac9390b8590317f949c17f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_update_name>sys_ux_page_property_9bfdedbfabac9390b8590317f949c17f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 05:32:41</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_2234804_loaner_0.dbfdedbfe9ac9390ba87a5fb2e15a274.route.chrome_header.97fdedbf28ac93900f0b491512281caa</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</application>
+        <file_path/>
+        <instance_id>af91d18febfb7a10c040fddacad0cd43</instance_id>
+        <instance_name>dev372169</instance_name>
+        <name>sys_ux_page_property_9bfdedbfabac9390b8590317f949c17f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">dbfdedbfe9ac9390ba87a5fb2e15a274</page><required_translations>[]</required_translations><route display_value="Landing Page">97fdedbf28ac93900f0b491512281caa</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-11-21 05:32:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>9bfdedbfabac9390b8590317f949c17f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package><sys_policy/><sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope><sys_update_name>sys_ux_page_property_9bfdedbfabac9390b8590317f949c17f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-11-21 05:32:41</sys_updated_on><type>json</type><unique_name>x_2234804_loaner_0.dbfdedbfe9ac9390ba87a5fb2e15a274.route.chrome_header.97fdedbf28ac93900f0b491512281caa</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1604268400</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>6a3383b2931013103dbcf1d8dd03d657</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2026-11-05 22:55:24</sys_created_on>
+        <sys_id>e8dfed3793ec93903dbcf1d8dd03d635</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1a1adec8f600000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>a8dfed37a8ec9390bd5f6d47bb92ce35</update_guid>
+        <update_guid_history>a8dfed37a8ec9390bd5f6d47bb92ce35:1604268400</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-21 05:40:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0ba4996eb8f9422a9eae194ea435dbc1</sys_id>
+        <sys_metadata>9bfdedbfabac9390b8590317f949c17f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Loaner Request" source="x_2234804_loaner_0">6fac2c2b93e813903dbcf1d8dd03d67b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6fac2c2b93e813903dbcf1d8dd03d67b</sys_scope>
+        <sys_scope_delete display_value="">89738b4e072c4570afe2c30241659640</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_9bfdedbfabac9390b8590317f949c17f</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_9bfdedbfabac9390b8590317f949c17f">e8dfed3793ec93903dbcf1d8dd03d635</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-21 05:40:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
